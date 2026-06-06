@@ -9,6 +9,10 @@ Latin: iactura — literally the cargo thrown overboard to save the ship. Iactur
 |---|---|
 | **Ticker** | $IACTURA |
 | **Chain** | Base |
+| **Contract** | `0xB5204EBAceBB1Cd47510Fe8954fe885dCf1D9bA3` |
+| **Chart** | https://dexscreener.com/base/0xB5204EBAceBB1Cd47510Fe8954fe885dCf1D9bA3 |
+| **Trade** | https://clanker.world/clanker/0xB5204EBAceBB1Cd47510Fe8954fe885dCf1D9bA3 |
+| **Explorer** | https://basescan.org/token/0xB5204EBAceBB1Cd47510Fe8954fe885dCf1D9bA3 |
 
 
 _Launched on Base via Clanker v4. Contract verified on Basescan._
